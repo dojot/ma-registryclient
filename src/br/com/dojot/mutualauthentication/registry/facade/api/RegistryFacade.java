@@ -1,4 +1,4 @@
-package br.com.cpqd.mutualauthentication.registry.facade.api;
+package br.com.dojot.mutualauthentication.registry.facade.api;
 
 import java.util.LinkedHashMap;
 

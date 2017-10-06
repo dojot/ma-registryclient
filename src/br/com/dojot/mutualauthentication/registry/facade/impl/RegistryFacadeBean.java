@@ -1,10 +1,10 @@
-package br.com.cpqd.mutualauthentication.registry.facade.impl;
+package br.com.dojot.mutualauthentication.registry.facade.impl;
 
 import java.util.LinkedHashMap;
 
-import br.com.cpqd.mutualauthentication.registry.facade.api.RegistryFacade;
-import br.com.cpqd.mutualauthentication.registry.service.api.RegistryService;
-import br.com.cpqd.mutualauthentication.registry.service.impl.RegistryServiceImpl;
+import br.com.dojot.mutualauthentication.registry.facade.api.RegistryFacade;
+import br.com.dojot.mutualauthentication.registry.service.api.RegistryService;
+import br.com.dojot.mutualauthentication.registry.service.impl.RegistryServiceImpl;
 
 public class RegistryFacadeBean implements RegistryFacade {
 
