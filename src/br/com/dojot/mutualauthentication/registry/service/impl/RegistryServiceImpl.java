@@ -1,11 +1,11 @@
-package br.com.cpqd.mutualauthentication.registry.service.impl;
+package br.com.dojot.mutualauthentication.registry.service.impl;
 
 import java.util.LinkedHashMap;
 
-import br.com.cpqd.mutualauthentication.registry.service.api.RegistryService;
-import br.com.cpqd.mutualauthentication.communication.exceptions.InvalidResponseException;
-import br.com.cpqd.mutualauthentication.communication.facade.api.CommunicationFacade;
-import br.com.cpqd.mutualauthentication.communication.facade.impl.CommunicationFacadeBean;
+import br.com.dojot.mutualauthentication.communication.exceptions.InvalidResponseException;
+import br.com.dojot.mutualauthentication.communication.facade.api.CommunicationFacade;
+import br.com.dojot.mutualauthentication.communication.facade.impl.CommunicationFacadeBean;
+import br.com.dojot.mutualauthentication.registry.service.api.RegistryService;
 
 public class RegistryServiceImpl implements RegistryService {
 

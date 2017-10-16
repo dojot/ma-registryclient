@@ -1,4 +1,4 @@
-package br.com.cpqd.mutualauthentication.registry.service.api;
+package br.com.dojot.mutualauthentication.registry.service.api;
 
 import java.util.LinkedHashMap;
 import org.json.JSONObject;
